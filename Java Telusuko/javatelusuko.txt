@@ -1,0 +1,110 @@
+what is programming?
+programming is away to instruct the computer to perform various tasks in a specified manner.
+
+Why programming is important?
+Computer programming is important today because so much of our world is automated. 
+humans need to be able to contolr the interaction betweenpeople and machines.
+
+progeamming paradigms available in the market
+Programming pardigm is an approach to solve problem using some programming langugage.
+types:
+Imperative (how to do): procedural, structural, object-oriented (java also a oop language)
+Declarative(What to do): Functional, logic, Database programming
+
+programming languages in the market:
+java, python, c, c++, php, ruby, groovy. pascal....etc.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+What is java?
+java is an object-oriented Programming language designed to develop all kinds of applications.
+
+Who invented java and when it was invented?
+James Gosling invented java in 1991 and the first release of java version is officially released in 1996 by sun Microsystem
+and after 2010 oracle aquire the java.
+
+What is the full form of java?
+there is no full form for java.
+
+Advantages and disadvantages of java?
+adv:
+Simple, Object-oriented language, platform-independent, Distributed, secure(class), Robust(we can chages according to updates)
+disadvantages:
+Ui is not good if we use the java for web development
+
+Diffrent technologies available in java?
+Java SE(Standard Edition):destop applications development, and core programming
+java EE (Enterprise Edition): Enterprise applications development
+java ME(Micro Edition): mobile related, vending machines software
+
+what is core java?
+core java contains the actual java programming and is widely in any kind of application development
+it is also used in software testing feild (automated testing, unit testing,... etc).
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Installations:
+
+
+Java installation:
+
+JDK version opensource 
+oracle JDK 21 LTS (Long Term Support) Download
+check in java version, and compiler version
+cmd java --version, javac --version
+
+If java version and javac versions in cmd 
+check your enviorment variables and add path if not upto bin folder
+
+
+IDE installation:
+
+An IDE like VS Code, Eclipse, Intellij,e.t.c.
+we use IDE here is VS Code
+
+Extentions:
+
+
+Kyewords:
+cd: change directory in cmd
+javac file name.java:compile the file
+java class file name:execute the program to get output
+System.out.print():print in same line
+System.out.println():print and moves to next line
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+Coding:
+sample code
+
+first class name: class Main(classname){
+    second method:public sstatic void main(String[]args){
+        to print: System.out.println("hello world");
+    }
+}
+
+Execution of our file in cmd or ide is to check error:
+
+first compile the code using:javac Main.java 
+file name if it is main.java we write this we need to write the .java extention while compiling
+we get the class file if we compile the file if it has no errors like : main.class
+
+second execute the class file to get output: java main (the class is created with name which we used in our program before)
+if filename is test the classfile name looks like: test.class
+
+
+
+
+
+
+
+
+
+
+
+
+
+
